@@ -2,13 +2,21 @@
 
 ## Time and Place
 
-### R Sections
-|    Section     |    Date    |     Time      |           Room            |   Instructor    |
-|:--------------:|:----------:|:-------------:|:-------------------------:|:---------------:|
-| DSCI 100 - 002 | Tues/Thurs | 15:30 - 17:00 |       Leonard S Klinck 201        |   Melissa Lee   |
-| DSCI 100 - 005 | Tues/Thurs | 12:30 - 14:00 |       Hybrid       | Rodolfo Lourenzutti |
-| DSCI 100 - 006 | Tues/Thurs | 16:00 - 17:30 | Hennings 200 |  Lasantha Premarathna   |
-| DSCI 100 - 007 |  Mon/Fri   | 15:00 - 16:30 |       Henning 200        |   Anthony Christidis |
+### Python section (us!)
+
+|    Section     |    Date    |     Time      |           Room            |   Instructor          |
+|:--------------:|:----------:|:-------------:|:-------------------------:|:---------------------:|
+| DSCI 100 - 100 | Tues/Thurs | 12:30 - 14:00 |  Orchard Commons 4074     |     Lindsey Heagy     |
+
+
+### R sections
+
+|    Section     |    Date    |     Time      |           Room            |   Instructor          |
+|:--------------:|:----------:|:-------------:|:-------------------------:|:---------------------:|
+| DSCI 100 - 002 | Tues/Thurs | 15:30 - 17:00 | Leonard S. Klinck 201     |      Melissa Lee      |
+| DSCI 100 - 005 | Tues/Thurs | 12:30 - 14:00 |          Online           |  Rodolfo Lourenzutti  |
+| DSCI 100 - 006 | Tues/Thurs | 16:00 - 17:30 |       HENNINGS 200        |  Lasantha Premarathna |
+| DSCI 100 - 007 |  Mon/Fri   | 15:00 - 16:30 |       HENNINGS 200        | Anthony-A. Christidis |
 
 
 ## Course Description
@@ -27,13 +35,13 @@ Also, please keep in mind that running a course during a pandemic is a new exper
 
 ## Textbook
 
-This course uses [Data Science: A First Introduction](https://ubc-dsci.github.io/introduction-to-datascience/). This textbook is open source and will always be freely available on the web.
+This course uses [Data Science: A First Introduction](https://ubc-dsci.github.io/introduction-to-datascience-python/index.html). This textbook is open source and will always be freely available on the web.
 
 ## Hardware & Software
 
 Students are required to bring a laptop, chromebook or tablet to both lectures and tutorials. Students who do not own a laptop, chromebook, or tablet may be able to [loan a laptop from the UBC library](https://services.library.ubc.ca/computers-technology/technology-borrowing/).
 
-All other required software will be provided by the instructors. Students will learn to perform their analysis using the [R programming language](https://cran.r-project.org/). Worksheets and tutorial problem sets as well as the final project analysis, development, and reports will be done using [Jupyter Notebooks](http://jupyter.org/) accessed via [Canvas](https://canvas.ubc.ca).
+All other required software will be provided by the instructors. Students will learn to perform their analysis using the [Python programming language](https://www.python.org/). Worksheets and tutorial problem sets as well as the final project analysis, development, and reports will be done using [Jupyter Notebooks](http://jupyter.org/) accessed via [Canvas](https://canvas.ubc.ca).
 
 ## Prerequisite Knowledge
 
@@ -65,34 +73,24 @@ By the end of the course, students will be able to:
 
 *Note that your TAs are students too; they may have class right before their office hours, and they may run a few minutes late. Please be patient!*
 
-| Section |           Position            |      Name       |            Email             | Office Hours | Office Hour Location |
+| Section |           Position            |      Name       |            Email             | Office Hours | Office Location |
 |---------|:-----------------------------:|:---------------:|:----------------------------:|:------------:|:---------------:|
-| All     | Course coordinator            |   Julia Peng    |   courses[-at-]stat.ubc.ca    |     n/a        |     n/a            |
-| 002     |          Instructor           | Melissa Lee     | melissa.lee[-at-]stat.ubc.ca  | Tuesdays 5 - 6 PM | LSK 201   |
-| 005     |          Instructor           | Rodolfo Lourenzutti |   lourenzutti[-at-]stat.ubc.ca  |      Wednesdays 1 - 2 PM    |   Zoom    |
-| 006     |          Instructor           | Lasantha Premarathna | wpremara[-at-]stat.ubc.ca |    Wednesdays 10 - 11 AM       |   ESB 3174    |
-| 007     |          Instructor           | Anthony Christidis   | anthony.christidis[-at-]stat.ubc.ca    |  Mondays 6 - 7 PM            |   Zoom              |
-| All     |          TA                   |  Moira Renata         |             n/a              | Fridays 2 - 3 PM  | Zoom |
-| All     |          TA                   |  Eric Li         |             n/a              | Thursdays 6 - 7 PM  | Zoom |
-| All     |          TA                   |  Abhinav Kansal         |             n/a              |Tuesdsay 5:30 - 6:30 PM  | ESB 1045 |
-| All     |          TA                   |  Samuel Leung         |             n/a              | Thursday 11 - 12 PM  | ESB 1041 |
-| All     |          TA                   |  Mahsa Zarei        |             n/a              | Mondays 7 - 8 PM  | Zoom |
-| All     |          TA                   |  Anthony Huang         |             n/a              | Mondays 2 - 3 PM  | ESB 1045 |
-| All     |          TA                   |  Shiyu(Evelyn) Jiang          |             n/a              | Mondays 1 - 2 PM  | Zoom |
-| All     |          TA                   |  Ding Ma         |             n/a              | Fridays 7 - 8 PM | Zoom |
-| All     |          TA                   |  Nour  Hanafi      |             n/a              | Wednesdays 12 - 1 PM | ESB 1045 |
-| All     |          TA                   |  Fares Burwag         |             n/a              | Fridays 6-7 PM | Zoom |
-| All     |          TA                   |  Edward Sobczak         |           n/a         | Wednesdays 6-7 PM  | Zoom |
+| 100     |       Course coordinator      |   Julia Peng    |   courses[-at-]stat.ubc.ca   |     N/A      |                 |
+| 100     |          Instructor           |  Lindsey Heagy  |   lheagy[-at-]eoas.ubc.ca    | Tuesdays 14:00 - 15:00 | Zoom |
+|         |                               |                 |                              |              |                 |
+| 100     |          TA                   |  Hannah Martin  |             n/a              |  Tuesdays 19:15-20:15   | Zoom |
+| 100     |          TA                   |    Jason Bai    |             n/a              |  Mondays 17:00-18:00   | Zoom |
+| 100     |          TA                   |  Nihar Bhardwaj Darbhamulla |             n/a              |  Thursdays 17:30-18:30  | Zoom |
 
 
-**Please contact the course coordinator about any administrative questions. Please read the course policy (e.g., late registration, missing quiz/assignment due to sickness) below before contacting**.
+**Please contact the course coordinator, Julia Peng, about any administrative questions. Please read the course policy (e.g., late registration, missing quiz/assignment due to sickness) below before contacting**.
 
 When sending emails, please include DSCI 100 in the subject line.
 
 ## Assessment
 
--   Quiz 1: (invigilated in-person) Same time & location of week 5's tutorial (Friday Feb 10 for section 007, and Thursday Feb 9 for 002, 005, 006, 100)
--   Quiz 2: (invigilated in-person) Same time & location of week 10's lecture (Friday Mar 24 for section 007, and Thursday Mar 23 for 002, 005, 006, 100)
+-   Quiz 1: (invigilated in-person) Same time & location of week 5's tutorial (Thursday, Feb 9 for section 100)
+-   Quiz 2: (invigilated in-person) Same time & location of week 10's lecture (Thursday, March 23 for section 100)
 -   Quiz 3: (invigilated in-person) To be scheduled by Classroom Services
 
 **Note**: Since DSCI 100 is a large course with multiple sections (hence, multiple versions of quizzes), the instructors reserve the rights to scale grades in order to maintain equity among sections according the [UBC campus wide policies and regulations](https://www.calendar.ubc.ca/Vancouver/index.cfm?tree=3,42,96,0).
@@ -129,10 +127,9 @@ In each class (lecture and tutorial) there will be an assignment:
 <!-- Note: viewing this part with no soft wrapping is more manageable -->
 
 
-
 | Week | Topic                                            | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 |------|--------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1    | Introduction                                     | Learn to use the R programming language and Jupyter notebooks as you walk through a real world data Science application that includes downloading data from the web, wrangling the data into a useable format and creating an effective data visualization.                                                                                                                                                                                                                                                                                                                                                                          |
+| 1    | Introduction                                     | Learn to use the Python programming language and Jupyter notebooks as you walk through a real world data Science application that includes downloading data from the web, wrangling the data into a useable format and creating an effective data visualization.                                                                                                                                                                                                                                                                                                                                                                          |
 | 2    | Reading in data locally and from the web         | Learn to read in various cases of data sets locally and from the web. Once read in, these data sets will be used to walk through a real world data Science application that includes wrangling the data into a useable format and creating an effective data visualization.                                                                                                                                                                                                                                                                                                                                                          |
 | 3    | Cleaning and wrangling data                      | This week will be centered around tools for cleaning and wrangling data. Again, this will be in the context of a real world data science application and we will continue to practice working through a whole case study that includes downloading data from the web, wrangling the data into a useable format and creating an effective data visualization.                                                                                                                                                                                                                                                                         |
 | 4    | Effective data visualization                     | Expand your data visualization knowledge and tool set beyond what we have seen and practiced so far. We will move beyond scatter plots and learn other effective ways to visualize data, as well as some general rules of thumb to follow when creating visualations. All visualization tasks this week will be applied to real world data sets. Again, this will be in the context of a real world data science application and we will continue to practice working through a whole case study that includes downloading data from the web, wrangling the data into a useable format and creating an effective data visualization. |
@@ -145,10 +142,10 @@ In each class (lecture and tutorial) there will be an assignment:
 | 8    | Group proposal due                               |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 | 9    | Regression, continued                            | Continued exploration of k-nn regression in higher dimensions. We will also begin to compare k-nn to linear models in the context of regression.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 | 10   | Quiz 2                                         | Cover classification 1 & 2 and regression 1 & 2                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
-| 11   | Clustering                                        | Introduction to clustering using K-means                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| 12   | Introduction to statistical inference            | Introduce sampling and estimation for sample means and proportions.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| 13   | Introduction to statistical inference, continued | Introduce confidence intervals, and calculating them via boostrapping.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-| 13   | Group report due                                 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| 10   | Clustering                                        | Introduction to clustering using K-means                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| 11   | Introduction to statistical inference            | Introduce sampling and estimation for sample means and proportions.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| 12   | Introduction to statistical inference, continued | Introduce confidence intervals, and calculating them via boostrapping.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| 12   | Group report due                                 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 | TBD  | Quiz 3                                           | To be Scheduled by To be scheduled by Classroom Services                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 
 ## Policies
@@ -159,11 +156,11 @@ Students who register for the class late have 1 week from their registration dat
 
 ### Late Assignments / Quiz Absence
 
-Students **must be present** at the invigilation venue (in class, examination centre, etc) to take quizzes; otherwise they will be considered to have missed the quiz and will be assigned a grade of zero.
+Students **must be present** at the invigilation venue (in class, on Zoom, examination centre, etc) to take quizzes; otherwise they will be considered to have missed the quiz and will be assigned a grade of zero.
 
 Students who will miss a quiz **must provide a self-declaration of academic concession prior to the quiz** (see Canvas homepage for the academic concession form) and make arrangements with the Instructor. Failing to present a declaration within a reasonable timeframe before the quiz will result in a grade of zero.
 
-There will be **no extensions for the lecture and tutorial worksheets**; late assignments will receive a grade of zero. Instead, we will drop the lowest grade on tutorials and worksheets for the semester. However, if you have extenuating circumstances and require further accommodations, please contact the course coordinator. 
+There will be **no extensions for the lecture and tutorial worksheets**; late assignments will receive a grade of zero. Instead, we will drop the lowest grade on tutorials and worksheets for the semester.
 
 For all other assignments and the course project, a **late submission will receive a 50% penalty**.
 
@@ -184,6 +181,8 @@ Note if you received 0 on an assignment when you shouldn't have, please contact 
 ### Device/Browser
 
 Students are responsible for using a device and browser compatible with all functionality of Canvas. Chrome or Firefox browsers are recommended; Safari has had issues with Canvas quizzes in the past.
+
+While classes are remote due to the ongoing pandemic, students are responsible to have a stable internet connection and a functioning webcam and microphone. Absence of any of these will not be considered a valid reason not to take a quiz/exam or submit an assignment on time.
 
 ### Missed Final Exam
 
